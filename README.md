@@ -1,5 +1,5 @@
-# kindsOfCompute
-https://jimboed.github.io/kindsOfCompute/
+# gobot playbooks
+https://firstJimOrg.github.io/gobotFarm_playbooks/
 
 
 make changes and updates to the docs ONLY in the "main" branch, never the "gh-pages" branch.
