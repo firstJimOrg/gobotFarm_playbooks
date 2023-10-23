@@ -1,0 +1,6 @@
+.DS_*
+*.DS_*
+
+index.html
+
+lunr.*.js
