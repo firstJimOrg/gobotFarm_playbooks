@@ -2,7 +2,7 @@
 at a pipeline visualization in mkdocs.
 
 
-``` mermaid
+``` flow
 graph LR
   A[Start] --> B{Error?};
   B -->|Yes| C[Hmm...];
