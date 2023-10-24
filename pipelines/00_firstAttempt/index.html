@@ -797,12 +797,8 @@
 
 <h1 id="first-attempt">first attempt<a class="headerlink" href="#first-attempt" title="Permanent link">&para;</a></h1>
 <p>at a pipeline visualization in mkdocs.</p>
-<pre class="uml-flowchart"><code>graph LR
-  A[Start] --&gt; B{Error?};
-  B --&gt;|Yes| C[Hmm...];
-  C --&gt; D[Debug];
-  D --&gt; B;
-  B ----&gt;|No| E[Yay!];</code></pre>
+<p>actually, i realized, i dont think i should make pipeline graphs, because pipelines are ouput from ploomber as plots. </p>
+<p>if i want to see them in one place here, i should get them from pipeline products, and place them here. </p>
 
 
 
